@@ -218,7 +218,7 @@ let kafloc = {key : {participant : '0@s.whatsapp.net', ...(rixxbotwhatsapp.chat 
 switch (command) {
 case 'menu':{
 rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
-┣❏ ᴏᴡɴᴇʀ : YT anggaofcb
+┣❏ ᴏᴡɴᴇʀ : LaPiz
 ┣❏ ɴᴀᴍᴇ ʙᴏᴛ : BUG BOT🔥
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱
@@ -229,7 +229,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤addakses @
 ╠➤delakses @
 ╠➤kick @
-╚════[ 𝘼𝙉𝙂𝙂𝘼 𝙊𝙁𝘾 ]══════⊱
+╚════[ 𝗟𝗔𝗣𝗜𝗭 𝙊𝙁𝘾 ]══════⊱
 ╔═════[ 𝘽𝙐𝙂 𝙀𝙈𝙊𝙅𝙄 ]═════⊱
 ╠➤ 🗿 62xxx
 ╠➤ 🔥 62xxx
@@ -265,7 +265,7 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `┏━━⊱ 𝙄𝙉𝙁𝙊 �
 ╠➤bugslebew 62xxxxx
 ╠➤bugneko 62xxxxx
 ╠➤bughentai 62xxxxx
-╚════[ 𝘼𝙉𝙂𝙂𝘼 𝙊𝙁𝘾 ]══════⊱`}, {quoted: kafloc})
+╚════[ 𝗟𝗔𝗣𝗜𝗭 𝙊𝙁𝘾 ]══════⊱`}, {quoted: kafloc})
 }
 break
 case 'kick': {
@@ -302,7 +302,7 @@ textsewa = `
 ╠➤ ᴊᴅɪ ʙᴏᴛ ᴘᴇʀᴍᴀɴᴇɴ 40ᴋ
 ╠➤ ....
 ╠➤ isi sendiri jan manja 🗿
-╚════[ 𝘼𝙉𝙂𝙂𝘼 𝙊𝙁𝘾 ]══════⊱
+╚════[ 𝗟𝗔𝗣𝗜𝗭 𝙊𝙁𝘾 ]══════⊱
 `
 rixxbotwhatsapp.reply(textsewa)
 break
